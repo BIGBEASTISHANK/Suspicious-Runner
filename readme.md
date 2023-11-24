@@ -3,6 +3,13 @@
 - Game in game folder
 - Source code in source code folder
 
+---
+## Platform
+- Windows
+- Linux
+- Mac
+---
+
 # How to download game
 
 ## Steps
